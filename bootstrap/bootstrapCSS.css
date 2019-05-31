@@ -59,7 +59,7 @@ nav ul li a {
   font-family: "Open Sans";
   text-transform:uppercase;
   color: rgba(0, 35, 122, 0.5);
-  font-size: 18px;
+  font-size: 90%;
   text-decoration: none;
   display: block;
 }
@@ -156,7 +156,7 @@ nav ul li a:hover {
   }
   #section05 a span{
     position: absolute;
-    top: 34em; /*39*/
+    top: 80vh; /*39*/
     left: 50%;
     width: 24px;
     height: 24px;
@@ -168,6 +168,7 @@ nav ul li a:hover {
     -webkit-animation: sdb05 1.5s infinite;
     animation: sdb05 1.5s infinite;
     box-sizing: border-box;
+    bottom: 5vh;
   }
   @-webkit-keyframes sdb05{
     0% {
@@ -196,7 +197,7 @@ nav ul li a:hover {
     }
   }
   #About_Me{
-    padding-top: 5%;
+    padding-top: 5vh;
     margin-top: 30%;
     background-color: rgba(255, 255, 255, .99);
     padding-bottom: 5%;
@@ -260,7 +261,6 @@ nav ul li a:hover {
   margin: 10px;
   max-height: 190px;
   max-width: 400px;
-  min-width: 250px;
   overflow: hidden;
   position: relative;
   text-align: left;
