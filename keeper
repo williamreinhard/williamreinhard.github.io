@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type = "css" href = "websiteOrganization.css">
+  <meta charset="utf-8">
+    <title>
+      Will's Website
+    </title>
+</head>
+<body>
+<h1 class = "Intro">Welcome to Will's Website</h1>
+<ul id = "Sidebar">
+  <li><a href = "#AM">About Me</a></li>
+  <li><a href = "#SA">Study Abroad</a></li>
+  <li><a href = "#I">Internships</a></li>
+  <li><a href = "#S">Sports</a></li>
+  <li><a href = "#CI">Campus Involvement</a></li>
+  <li><a herf = "#P">Projects</a></li>
+  <li><a href = "#R">Resume</a></li>
+</ul>
+<p>The main page <button>content</button> appears in the body tag.</p>
+<h1 id = "AM">About Me</h2>
+<div class = "Flex-Child">
+<h2 id = "SA">Study Abroad Experineces</h2>
+<h3>China</h3>
+<p>
+I’ve always had a unique connection to China - having both been born in Hong Kong but also living there extensively over the past 15 years. In seventh grade, I studied at Beijing New Talent Academy for a semester to improve my Mandarin proficiency. It was a very different experience, especially because my 10 year old brother and I stayed with a host family over the weekend, and at the boarding school during the week. The opportunity itself proved extremely fruitful, and as a result I am now certified with an HSK Level 5 proficiency in listening, reading, and writing. After that first semester in Beijing, I went back for a month every summer and stayed with the same host family, up until the summer of 2018. I was able to procure a business development internship with a Chinese mapping company called eMapGo. It was the first extensive period of time I had spent in Shanghai, and it was really an unparalleled learning experience. I’ve detailed my experience in the <a href = "#I" >Internships</a> section. As a result of these many opportunities, I’ve come to the realization that I often view China as my second home, and I look forward to being able to leverage my language ability in my future career pursuits.
+</p>
+<h3>Sweden</h3>
+<p>Upon applying to the University of Illinois, I was determined to take a semester and immerse myself in another culture - I just wasn’t sure where. Eventually I sat down with one of my friends and penciled out the factors that meant a lot to us, chief among which was the ability to get engineering credits which would transfer back to the University of Illinois. Needless to say, Sweden gradually made its way to the top of our list. Since being here, I’ve absolutely fallen in love with everything it has to offer. Sweden truly is a unique country given that almost its entire population speaks Engilish fluently. Furthermore, it's really impressive that they seemingly don't have accents when speaking English. From a business perspective, Sweden also seems to have a great deal of national pride, especially in the cases of Volvo, Ikea, and Ericcson. The courses are also structured very differently than what I'm accustomed to in the United States, because there is a much bigger emphasis on several projects that are spread across the duration of the semester instead of daily or weekly homework assignments, paired with monthly exams. I'm also a big fan of how interesting and engaging the projects that we're tasked with completing here are. You can see some examples in <a href = "#P">Projects</a>. In my opinion, my experience here has been much more focused on learning the actual material as opposed to being forced to complete tasks that don't necessarily guarantee my understanding. Regardless, it's definitley been an amazing experience to see what it's like to learn in a different setting with a very different course structure.
+</p>
+</div>
+<div class = "Flex-Child">
+<h2 id = "I">Internships</h2>
+  <h3>HERE Technologies</h3>
+  <p>The first big internship I had was working for a high-definition mapping company, specificaly within their Enterprse Sales Division. The position was unique because interns were not authorized to make sales, so I took it upon myself to find ways to assist the sales team when I wasn't joining in their calls. At the time I had started my internship, there was another employee who was onboarding. This was a perfect opportunity to see what kinks might need to be ironed out in the system, and gave me a great understanding of what could make the job easier. I quickly realized although their intranet was full of information, the information was all over the place and had no form of organization. In order to mediate this, I started developing a "go-to" landing page that had various links and references that made it extremely simple to provide clients with data during calls.
+  <h3>eMapGo Technologies</h3>
+    <h4>Partnerships</h3>
+    <p>Being at the intersection of High Definition mapping and Autonomous Vehicles lends itself very nicely to developing partnerships with myriad different companies. This position was a great opportunity to leverage my Mandarin speaking ability to hear from C-suite executives at other key technology companies in China. This role also had the perk of being able to attend CES Asia, which was genuinely a dream come true. Being able to see the advancments of technology across so many different fields was fantastic, but specifically with regard to the push toward autonomy.</p>
+    <h4>iOS App Development</h3>
+    <p>Although much of my internship was spent on client site visits and working more from a business development perspective, there was also a significant amount of time that I could use to help in any capacity I could. China is extremely unique in that their maps are never as accurate as those in the US due to the everchanging nature of Chinese cities. As a result, the company didn't find it important to invest time and resources in developing a consumer facing iOS application. I thought it was slightly ironic, given that they're a mapping company, so I dove in and started learning Swift, and by the end of my internship, I had a navigable map.
+    <h4>Lunch & Learns</h3>
+    <p>Because I had so much background and inherent interest in the field of autonomous cars, I had a twice-weekly "lunch & learn" type meeting where I would walk through a presentation that I had made explaining a hot topic, both in Chinese and English. The goal was to help employees become more familiar with common terminology that they could often use, and to understand how it was used in English.
+  <h3>Forward View Displays</h3>
+    <h4>Web Design</h3>
+    <p>This was really my first exposure to web development, and helped me learn a lot about the foundation I need to progress and build more interesting websites.
+    <h4>Quality Control</h3>
+    <h4>Assembly</h3>
+    <h4>Product Development</h3>
+</div>
+<div class = "Flex-Child">
+<h2 id = "S">Sports</h2>
+  <h3>Basketball</h3>
+    <h4>AAU</h4>
+    <h4>High School</h4>
+  <h3>Golf</h3>
+</div>
+<div class = "Flex-Child">
+<h2 id = "CI">Campus Involvement</h2>
+  <h3>Illinois Business Consulting</h3>
+  <h3>Illini Motorsport</h3>
+  <h3>Beta Theta Pi</h3>
+</div>
+<div class = "Flex-Child">
+<h2 id = "P">Projects</h2>
+<h2 id = "R" ><a href="WilliamReinhard.pdf">Resume</a></h2>
+</div>
+</body>
+</html>
