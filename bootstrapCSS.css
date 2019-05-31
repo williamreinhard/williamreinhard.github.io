@@ -361,7 +361,7 @@ nav ul li a:hover {
 /*-----------------This is the end of the AboutMe Section---------*/
 #BasketballSection{
   padding-bottom: 3%;
-  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("WebsitePictures/basketballPic.png");
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("WebsitePictures/basketballPic.PNG");
   background-repeat: no-repeat;
   background-size: 100%;
   height: 100vh;
@@ -992,7 +992,7 @@ background: #e66a5a;
     background: linear-gradient(rgba(255,255,255, .4), rgba(255,255,255, .2));
   }
   #BasketballSection{
-    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("WebsitePictures/basketballPic.png");
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("WebsitePictures/basketballPic.PNG");
     background-repeat: no-repeat;
     background-size: 100%;
     height: 100vh;
