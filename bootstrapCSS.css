@@ -794,7 +794,7 @@ nav ul li a:hover {
 
 #ContactMeSection{
   padding-bottom: 3%;
-  background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("WebsitePictures/ContactMe3.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .9)), url("WebsitePictures/ContactMe3.jpeg");
   background-repeat: no-repeat;
   background-size: 100%;
   height: 100vh;
