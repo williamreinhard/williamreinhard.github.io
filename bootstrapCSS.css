@@ -935,7 +935,7 @@ background: #e66a5a;
 
 /*----------------------This is the end of the ContactMe Section---------------------*/
 /*Handling Smaller Screens*/
-@media screen and (max-width: 860px){
+@media screen and (max-width: 600px){
   body{
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .6)), url("WebsitePictures/profPic.jpg");
     max-width: 100%
@@ -947,6 +947,15 @@ background: #e66a5a;
     transform-style: preserve-3d;
     overflow-x: hidden;
     overflow-y: scroll;
+  }
+  nav ul li a {
+    padding: 12px;
+    font-family: "Open Sans";
+    text-transform:uppercase;
+    color: rgba(0, 35, 122, 0.5);
+    font-size: 90%;
+    text-decoration: none;
+    display: block;
   }
   #AboutMe .col{
     width: 100%;
@@ -997,6 +1006,9 @@ background: #e66a5a;
     width: 100%;
     height: 90%;
     position: center;
+  }
+  .snip1529 h3{
+    font-size: 18px;
   }
   .card-group{
     margin-top: 50%;
