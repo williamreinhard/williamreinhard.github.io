@@ -950,7 +950,7 @@ background: #e66a5a;
 @media screen and (max-width: 800px){
   body{
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .6)), url("WebsitePictures/profPic.jpg");
-    max-width: 100%
+    max-width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
