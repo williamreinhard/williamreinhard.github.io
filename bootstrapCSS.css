@@ -966,6 +966,9 @@ background: #e66a5a;
     overflow-x: hidden;
     overflow-y: scroll;
   }
+  #website{
+    overflow-y: scroll;
+  }
   nav ul li a {
     padding: 12px;
     font-family: "Open Sans";
